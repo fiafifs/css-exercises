@@ -1,0 +1,25 @@
+
+.odd-number,
+#no-2,
+.odd-number.cool,
+#no-4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.odd-number {
+    background-color: rgba(255, 182, 193, 0.63);
+}
+
+#no-2 {
+    color: rgb(12, 12, 248);
+    font-size: 36px;
+}
+
+.odd-number.cool,
+#no-4{
+    font-size: 24px;
+}
+
+#no-4 {
+    background-color: rgba(130, 238, 130, 0.87);
+    font-weight: bold;
+}
